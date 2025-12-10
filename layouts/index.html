@@ -1,0 +1,28 @@
+{{ partial "header.html" . -}}
+<h1>{{ .Title }}</h1>
+{{ partial "navbar.html" . -}}
+<main>
+<section>
+	<ul>
+	{{ range where .Site.RegularPages "Section" "blog" }}
+	<li>
+		<span>{{.Date.Format "January 2, 2006"}}</span><br>
+		<a href="{{.Permalink}}">{{.Title}}</a>
+	</li>
+	{{ end }}
+	</ul>
+</section>
+<aside>
+	<img alt="My Photo" src="/p/pic.webp" style="border-radius: 10px; margin: 10px;">
+        <p>Olá, meu nome é Sivaldo Davi.
+        Este é o meu site, fique à vontade para explorar.
+        Tem algumas coisas que você pode gostar.</p>
+        <ul>
+                <li><a href="/software/">Software's que uso</a></li>
+                <li><a href="/hardware/">Hardware's que uso</a></li>
+                <li><a href="/confession/">No que eu creio</a></li>
+		<li>Alguns <a href="/websites/">sites</a> que eu gosto.</li>
+        </ul>
+</aside>
+</main>
+{{ partial "footer.html" . }}
