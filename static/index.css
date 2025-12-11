@@ -51,15 +51,17 @@ li {
 	text-align: left;
 }
 
+/* --- ALTERAÇÃO AQUI (TEMA LARANJA) --- */
 a {
 	text-decoration: none;
-	color: #888888;  /* cinza médio */
+	color: #fe8019; /* Laranja principal */
 }
 
 a:hover {
-	color: #bbbbbb;  /* cinza claro */
+	color: #fabd2f; /* Laranja mais claro/amarelo ao passar o mouse */
 	text-decoration: underline;
 }
+/* ------------------------------------- */
 
 img {
 	max-width: 640px;
@@ -76,7 +78,7 @@ figure {
 
 code {
 	font-family: monospace;
-	color: #fe8019;
+	color: #fe8019; /* Note que este é o mesmo laranja usado agora nos links */
 	padding: 2px;
 	border-radius: 2px;
 }
@@ -197,11 +199,11 @@ footer {
 	}
 
 	a {
-		color: #4084d6;
+		color: #d65d0e; /* Laranja escuro para fundo branco */
 	}
 
 	a:hover {
-		color: #4084d6;
+		color: #af3a03; /* Laranja ainda mais escuro no hover */
 	}
 
 	blockquote {
