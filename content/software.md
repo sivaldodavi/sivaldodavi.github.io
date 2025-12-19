@@ -45,7 +45,7 @@ Uso o groff/troff para criar documentos simples direto do terminal usando vim. �
 #### Planilhas
 Uso o [sc-im](https://github.com/andmarti1424/sc-im), que usa nativamente atalhos vim. É leve e muito completo.
 
-### Imagens e documentos
+#### Imagens e documentos
 Para ver imagens uso o [nsxiv](https://codeberg.org/nsxiv/nsxiv); para abrir documentos, uso o [zathura](https://pwmt.org/projects/zathura/).
 
 E para apresentações, uso o [sent](https://tools.suckless.org/sent/). O qual, inclusive, utilizo para projeção na igreja local.
@@ -56,7 +56,7 @@ Uso o [mpv](https://mpv.io/) para assistir e ouvir o que preciso, e quanto a mú
 
 Para editar vídeo e áudios o [FFmpeg](https://ffmpeg.org/) é o ideal, completo e utilizado por boa parte da indútria audiovisual.
 
-### Edição de imagem
+#### Edição de imagem
 Para pequenas alterações [ImageMagick](https://imagemagick.org/index.php); para edições mais complexas o [GIMP](https://www.gimp.org/).
 
 ### E-mail
