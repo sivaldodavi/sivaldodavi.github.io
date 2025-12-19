@@ -4,7 +4,9 @@ draft: false
 ---
 
 ## Laptop
-Uso um Lenovo Ideapad 3i.
+Não tenho um desktop, apenas um notebook **Lenovo Ideapad 3 15IGL05.** Não há razões técnicas para isso.
 
 ## Telefone
-Não sou grande fã, mas uso um Samsung A14 instrumentalmente. Não utilizo uma room mas segura e/ou privada (como graphne) por questões técnicas.
+Tenho um Samsung A15. Não utilizo uma room segura/privada porque não há essa disponibilidade nesse modelo.
+
+O celular serve apenas como meio de comunicação, algo instrumental.
