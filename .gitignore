@@ -1,0 +1,7 @@
+# Hugo default output
+public
+resources
+
+# System files
+.DS_Store
+Thumbs.db

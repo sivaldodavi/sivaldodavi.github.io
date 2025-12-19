@@ -1,0 +1,14 @@
+baseURL = "https://sivaldodavi.github.io/"
+languageCode = "pt-br"
+title = "Sivaldo Davi"
+disableKinds = ["taxonomy", "section"]
+
+[outputs]
+	home = ["HTML", "RSS"]
+	section = ["HTML"]
+	taxonomy = ["HTML"]
+
+[outputFormats]
+	[outputFormats.RSS]
+	mediatype = "application/rss"
+	baseName = "rss"
