@@ -1,6 +1,6 @@
-baseURL = "https://sivaldodavi.github.io/"
+baseURL = "https://sivaldodavi.com/"
 languageCode = "pt-br"
-title = "Sivaldo Davi"
+title = "Sivaldo Davi website"
 disableKinds = ["taxonomy", "section"]
 
 [outputs]

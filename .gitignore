@@ -1,7 +1,5 @@
-# Hugo default output
+.drafts
+.hugo_build.lock
 public
-resources
-
-# System files
-.DS_Store
-Thumbs.db
+sync
+static/files
